@@ -11,4 +11,3 @@ I choose to develop the app using Flutter.
 
 ### Here is the app
 
-<img src="https://github.com/83wid/Swifty-Companion/blob/main/Gif/gif.gif" width="400"/>
